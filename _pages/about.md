@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: pdg_image_optimized_1000.png
+  image: dasgupta.80.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Physics Research Building, Center for Cosmology and AstroParticle Physics (CCAPP)</p>

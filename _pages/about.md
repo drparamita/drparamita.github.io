@@ -26,9 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Welcome! I am Paramita Dasgupta, an Astrophysicist and CCAPP Fellow at The Ohio State University. I study ultra-high energy neutrinos and cosmic rays, with a focus on radio-based detector design, calibration, simulation, and data analysis—including applications of machine learning.
+I developed a pioneering framework to simulate cosmic ray–induced radio signal reflections off Antarctic ice, used in NASA-funded missions such as ANITA, HiCal, and the upcoming PUEO. I am also an honorary investigator with the GRAPES-3 collaboration and have hands-on field experience deploying antennas at Summit Station, Greenland.
+My broader research interests include Fast Radio Bursts, radio emission from neutron stars, and the search for technosignatures.
 
-Welcome to my page! I am **Paramita Dasgupta**. I am an Astrophysicist. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

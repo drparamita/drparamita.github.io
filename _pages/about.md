@@ -9,7 +9,7 @@ profile:
   image: dasgupta.80.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Physics Research Building, Center for Cosmology and AstroParticle Physics (CCAPP)</p>
+    <p>M2021 Physics Research Building, Center for Cosmology and AstroParticle Physics (CCAPP)</p>
     <p>The Ohio State University</p>
     <p>Columbus, Ohio, USA </p>
 

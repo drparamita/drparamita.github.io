@@ -9,9 +9,11 @@ profile:
   image: dasgupta.80.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>M2021 Physics Research Building, Center for Cosmology and AstroParticle Physics (CCAPP)</p>
+    <p>M2021 Physics Research Building</p>
+    <p>Center for Cosmology and AstroParticle Physics (CCAPP)</p>
     <p>The Ohio State University</p>
-    <p>Columbus, Ohio, USA </p>
+    <p>Columbus, Ohio, USA</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +28,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Welcome! I am **Paramita Dasgupta**, an Astrophysicist and CCAPP Fellow at [The Ohio State University]([https://ccapp.osu.edu/people/dasgupta.80]. I received my PhD from [IIT Kanpur](https://www.iitk.ac.in) in 2020 under the supervision of [Prof. Pankaj Jain](https://home.iitk.ac.in/~pkjain/home.html).  
+Welcome! I am **Paramita Dasgupta**, an Astrophysicist and CCAPP Fellow at [The Ohio State University](https://ccapp.osu.edu/people/dasgupta.80). I received my PhD from [IIT Kanpur](https://www.iitk.ac.in) in 2020 under the supervision of [Prof. Pankaj Jain](https://home.iitk.ac.in/~pkjain/home.html).  
 
 My research focuses on ultra-high energy neutrinos and cosmic rays, particularly through radio-based detector design, calibration, simulation, and data analysis—including applications of machine learning.  
 
